@@ -1,0 +1,120 @@
+sqef_sliced_256bit_500000keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.970322
+H_bitstring: 0.999553
+min(H_original, 8 X H_bitstring): 7.970322
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+sqef_sliced_512bit_250000keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.969186
+H_bitstring: 0.999591
+min(H_original, 8 X H_bitstring): 7.969186
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+sqef_sliced_1024bit_125000keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.968663
+H_bitstring: 0.999610
+min(H_original, 8 X H_bitstring): 7.968663
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+sqef_sliced_2048bit_62500keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.969981
+H_bitstring: 0.999561
+min(H_original, 8 X H_bitstring): 7.969981
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+sqef_sliced_4096bit_31250keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.964741
+H_bitstring: 0.999655
+min(H_original, 8 X H_bitstring): 7.964741
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+sqef_sliced_1KB_16384keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.971894
+H_bitstring: 0.999645
+min(H_original, 8 X H_bitstring): 7.971894
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+sqef_sliced_4KB_4096keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.970029
+H_bitstring: 0.999616
+min(H_original, 8 X H_bitstring): 7.970029
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+sqef_sliced_1MB_16keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.970398
+H_bitstring: 0.999576
+min(H_original, 8 X H_bitstring): 7.970398
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+standard_security/sqef_sliced_16MB_1keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.965637
+H_bitstring: 0.999505
+min(H_original, 8 X H_bitstring): 7.965637
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+sqef_sliced_256MB_1keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.991680
+H_bitstring: 0.999881
+min(H_original, 8 X H_bitstring): 7.991680
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests
+
+sqef_sliced_512MB_1keys_from_standard_master.bin 8
+Calculating baseline statistics...
+H_original: 7.993860
+H_bitstring: 0.999939
+min(H_original, 8 X H_bitstring): 7.993860
+** Passed chi square tests
+
+** Passed length of longest repeated substring test
+
+** Passed IID permutation tests

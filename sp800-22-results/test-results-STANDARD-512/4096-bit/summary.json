@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "generated": "2025-08-10T15:42:39.913865",
+    "generator": "SQEF Test Summary Generator v2.1",
+    "directory": "sp800-22-results\\test-results-STANDARD-512\\4096-bit",
+    "report_file": "finalAnalysisReport.txt"
+  },
+  "configuration": {
+    "security_level": "STANDARD",
+    "expansion_ratio": "1:512",
+    "key_size": "4096-bit"
+  },
+  "overall_results": {
+    "total_individual_tests": 188,
+    "passed_individual_tests": 188,
+    "failed_individual_tests": 0,
+    "overall_pass_rate": 1.0,
+    "pass_percentage": "100.00%",
+    "meets_nist_requirement": true,
+    "status": "PASSED",
+    "unique_test_types": 15,
+    "note": "NIST requires \u226596% of individual tests to pass, not test types"
+  },
+  "entropy_assessment": {
+    "h_original": 7.964741,
+    "h_bitstring": 0.999655,
+    "min_entropy": 7.964741,
+    "min_entropy_per_byte": "7.964741 bits/byte",
+    "chi_square_test": "PASSED",
+    "iid_test": "PASSED",
+    "lrs_test": "PASSED",
+    "entropy_percentage": "99.56%",
+    "overall_status": "PASSED"
+  },
+  "individual_tests": {
+    "Frequency": {
+      "test_name": "Frequency",
+      "passed": 125,
+      "total": 125,
+      "pass_rate": 1.0,
+      "percentage": "100.00%",
+      "p_value": 0.73155,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "BlockFrequency": {
+      "test_name": "BlockFrequency",
+      "passed": 125,
+      "total": 125,
+      "pass_rate": 1.0,
+      "percentage": "100.00%",
+      "p_value": 0.125321,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "CumulativeSums": {
+      "test_name": "CumulativeSums",
+      "passed": 125,
+      "total": 125,
+      "pass_rate": 1.0,
+      "percentage": "100.00%",
+      "p_value": 0.19958,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "Runs": {
+      "test_name": "Runs",
+      "passed": 124,
+      "total": 125,
+      "pass_rate": 0.992,
+      "percentage": "99.20%",
+      "p_value": 0.038187,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "LongestRun": {
+      "test_name": "LongestRun",
+      "passed": 124,
+      "total": 125,
+      "pass_rate": 0.992,
+      "percentage": "99.20%",
+      "p_value": 0.525771,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "Rank": {
+      "test_name": "Rank",
+      "passed": 125,
+      "total": 125,
+      "pass_rate": 1.0,
+      "percentage": "100.00%",
+      "p_value": 0.144641,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "FFT": {
+      "test_name": "FFT",
+      "passed": 123,
+      "total": 125,
+      "pass_rate": 0.984,
+      "percentage": "98.40%",
+      "p_value": 0.73155,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "NonOverlappingTemplate": {
+      "test_name": "NonOverlappingTemplate",
+      "passed": 123,
+      "total": 125,
+      "pass_rate": 0.984,
+      "percentage": "98.40%",
+      "p_value": 0.559523,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "OverlappingTemplate": {
+      "test_name": "OverlappingTemplate",
+      "passed": 124,
+      "total": 125,
+      "pass_rate": 0.992,
+      "percentage": "99.20%",
+      "p_value": 0.826984,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "Universal": {
+      "test_name": "Universal",
+      "passed": 125,
+      "total": 125,
+      "pass_rate": 1.0,
+      "percentage": "100.00%",
+      "p_value": 0.542566,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "ApproximateEntropy": {
+      "test_name": "ApproximateEntropy",
+      "passed": 124,
+      "total": 125,
+      "pass_rate": 0.992,
+      "percentage": "99.20%",
+      "p_value": 0.281464,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "RandomExcursions": {
+      "test_name": "RandomExcursions",
+      "passed": 78,
+      "total": 81,
+      "pass_rate": 0.9629629629629629,
+      "percentage": "96.30%",
+      "p_value": 0.033751,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "RandomExcursionsVariant": {
+      "test_name": "RandomExcursionsVariant",
+      "passed": 81,
+      "total": 81,
+      "pass_rate": 1.0,
+      "percentage": "100.00%",
+      "p_value": 0.919445,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "Serial": {
+      "test_name": "Serial",
+      "passed": 125,
+      "total": 125,
+      "pass_rate": 1.0,
+      "percentage": "100.00%",
+      "p_value": 0.936639,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    },
+    "LinearComplexity": {
+      "test_name": "LinearComplexity",
+      "passed": 123,
+      "total": 125,
+      "pass_rate": 0.984,
+      "percentage": "98.40%",
+      "p_value": 0.218048,
+      "meets_requirement": true,
+      "uniformity_fail": false
+    }
+  },
+  "test_categories": {
+    "frequency_tests": {
+      "Frequency": {
+        "test_name": "Frequency",
+        "passed": 125,
+        "total": 125,
+        "pass_rate": 1.0,
+        "percentage": "100.00%",
+        "p_value": 0.73155,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "BlockFrequency": {
+        "test_name": "BlockFrequency",
+        "passed": 125,
+        "total": 125,
+        "pass_rate": 1.0,
+        "percentage": "100.00%",
+        "p_value": 0.125321,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      }
+    },
+    "runs_tests": {
+      "Runs": {
+        "test_name": "Runs",
+        "passed": 124,
+        "total": 125,
+        "pass_rate": 0.992,
+        "percentage": "99.20%",
+        "p_value": 0.038187,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "LongestRun": {
+        "test_name": "LongestRun",
+        "passed": 124,
+        "total": 125,
+        "pass_rate": 0.992,
+        "percentage": "99.20%",
+        "p_value": 0.525771,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      }
+    },
+    "template_tests": {
+      "NonOverlappingTemplate": {
+        "test_name": "NonOverlappingTemplate",
+        "passed": 123,
+        "total": 125,
+        "pass_rate": 0.984,
+        "percentage": "98.40%",
+        "p_value": 0.559523,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "OverlappingTemplate": {
+        "test_name": "OverlappingTemplate",
+        "passed": 124,
+        "total": 125,
+        "pass_rate": 0.992,
+        "percentage": "99.20%",
+        "p_value": 0.826984,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      }
+    },
+    "complexity_tests": {
+      "LinearComplexity": {
+        "test_name": "LinearComplexity",
+        "passed": 123,
+        "total": 125,
+        "pass_rate": 0.984,
+        "percentage": "98.40%",
+        "p_value": 0.218048,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      }
+    },
+    "other_tests": {
+      "CumulativeSums": {
+        "test_name": "CumulativeSums",
+        "passed": 125,
+        "total": 125,
+        "pass_rate": 1.0,
+        "percentage": "100.00%",
+        "p_value": 0.19958,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "Rank": {
+        "test_name": "Rank",
+        "passed": 125,
+        "total": 125,
+        "pass_rate": 1.0,
+        "percentage": "100.00%",
+        "p_value": 0.144641,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "FFT": {
+        "test_name": "FFT",
+        "passed": 123,
+        "total": 125,
+        "pass_rate": 0.984,
+        "percentage": "98.40%",
+        "p_value": 0.73155,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "Universal": {
+        "test_name": "Universal",
+        "passed": 125,
+        "total": 125,
+        "pass_rate": 1.0,
+        "percentage": "100.00%",
+        "p_value": 0.542566,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "ApproximateEntropy": {
+        "test_name": "ApproximateEntropy",
+        "passed": 124,
+        "total": 125,
+        "pass_rate": 0.992,
+        "percentage": "99.20%",
+        "p_value": 0.281464,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "RandomExcursions": {
+        "test_name": "RandomExcursions",
+        "passed": 78,
+        "total": 81,
+        "pass_rate": 0.9629629629629629,
+        "percentage": "96.30%",
+        "p_value": 0.033751,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "RandomExcursionsVariant": {
+        "test_name": "RandomExcursionsVariant",
+        "passed": 81,
+        "total": 81,
+        "pass_rate": 1.0,
+        "percentage": "100.00%",
+        "p_value": 0.919445,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      },
+      "Serial": {
+        "test_name": "Serial",
+        "passed": 125,
+        "total": 125,
+        "pass_rate": 1.0,
+        "percentage": "100.00%",
+        "p_value": 0.936639,
+        "meets_requirement": true,
+        "uniformity_fail": false
+      }
+    }
+  },
+  "file_checksums": null
+}

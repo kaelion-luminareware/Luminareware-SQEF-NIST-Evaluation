@@ -1,0 +1,339 @@
+{
+  "generated": "2025-08-10 17:34:03",
+  "algorithm": "SHA256",
+  "root_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs",
+  "total_files": 33,
+  "total_size_gb": 2.661,
+  "files": [
+    {
+      "filename": "sqef_sliced_1024bit_125000keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/1024-bit/sqef_sliced_1024bit_125000keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\1024-bit\\sqef_sliced_1024bit_125000keys_from_ENHANCED_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "62F0A4AA45CE66EBEC37488B5A292048436F213A1E8FF337ABAAD1F3CA810E56",
+      "last_modified": "2025-08-06 16:32:11"
+    },
+    {
+      "filename": "sqef_sliced_16MB_1keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/16MB-blocks/sqef_sliced_16MB_1keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\16MB-blocks\\sqef_sliced_16MB_1keys_from_ENHANCED_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "6A8C690339F29064FF840EC2E2DB1E12BAB8F9B61BEF6EF3B550A79180D2A380",
+      "last_modified": "2025-08-06 16:32:12"
+    },
+    {
+      "filename": "sqef_sliced_1KB_16384keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/1KB-blocks/sqef_sliced_1KB_16384keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\1KB-blocks\\sqef_sliced_1KB_16384keys_from_ENHANCED_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "4A9EC2DB16735730AC601B612A3C93D3E6B3975227BD30F7A44DAE38BD7B7534",
+      "last_modified": "2025-08-06 16:32:11"
+    },
+    {
+      "filename": "sqef_sliced_1MB_16keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/1MB-blocks/sqef_sliced_1MB_16keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\1MB-blocks\\sqef_sliced_1MB_16keys_from_ENHANCED_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "C57A8448288E7D766FE0C78EAD7F10AF830852179BD14ED43E9BB93F6762333B",
+      "last_modified": "2025-08-06 16:32:12"
+    },
+    {
+      "filename": "sqef_sliced_2048bit_62500keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/2048-bit/sqef_sliced_2048bit_62500keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\2048-bit\\sqef_sliced_2048bit_62500keys_from_ENHANCED_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "E8C10D6E9CA40081460FC232BA66D61E8E0B98BE3BEFB2CBC4ABB8418DAF9CC7",
+      "last_modified": "2025-08-06 16:32:11"
+    },
+    {
+      "filename": "sqef_sliced_256bit_500000keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/256-bit/sqef_sliced_256bit_500000keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\256-bit\\sqef_sliced_256bit_500000keys_from_ENHANCED_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "A7DDB66F100AF736E73CA8E71A00968DEA98363D64C8F9264F4EF98692854E1D",
+      "last_modified": "2025-08-06 16:32:11"
+    },
+    {
+      "filename": "sqef_sliced_256MB_1keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/256MB-blocks/sqef_sliced_256MB_1keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\256MB-blocks\\sqef_sliced_256MB_1keys_from_ENHANCED_master.bin",
+      "size_bytes": 268435456,
+      "size_mb": 256.0,
+      "size_human": "256.00 MB",
+      "sha256": "D879514D3FD0C38BEF5D2C443B6DA570BF330F9F057BB2EEB30499A0A74348D2",
+      "last_modified": "2025-08-06 16:45:49"
+    },
+    {
+      "filename": "sqef_sliced_4096bit_31250keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/4096-bit/sqef_sliced_4096bit_31250keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\4096-bit\\sqef_sliced_4096bit_31250keys_from_ENHANCED_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "640031D3FDC954721DA0FDB02C1F634FF6AA3D4237692EE3A36C55EFE33FE825",
+      "last_modified": "2025-08-06 16:32:11"
+    },
+    {
+      "filename": "sqef_sliced_4KB_4096keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/4KB-blocks/sqef_sliced_4KB_4096keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\4KB-blocks\\sqef_sliced_4KB_4096keys_from_ENHANCED_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "7C536288A4EBD891255DBA44EC4529AD2639D2DBD6DE22C391C0DB1E33AFB00C",
+      "last_modified": "2025-08-06 16:32:12"
+    },
+    {
+      "filename": "sqef_sliced_512bit_250000keys_from_ENHANCED_master.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/512-bit/sqef_sliced_512bit_250000keys_from_ENHANCED_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\512-bit\\sqef_sliced_512bit_250000keys_from_ENHANCED_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "8A0893B511A5D4F44886FC954C2EF9A54F3A08D2CB021D608C5589DF53C314DD",
+      "last_modified": "2025-08-06 16:32:11"
+    },
+    {
+      "filename": "sqef_master_512mb_ENHANCED_for_slicing.bin",
+      "relative_path": "sample-outputs-ENHANCED-128/512MB-master/sqef_master_512mb_ENHANCED_for_slicing.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-ENHANCED-128\\512MB-master\\sqef_master_512mb_ENHANCED_for_slicing.bin",
+      "size_bytes": 536870912,
+      "size_mb": 512.0,
+      "size_human": "512.00 MB",
+      "sha256": "E1A22355B3CBF86E1CDA6B008BB3C6D6CA39FBEBBC948A1C425A73CEA1267F75",
+      "last_modified": "2025-08-06 16:32:10"
+    },
+    {
+      "filename": "sqef_sliced_1024bit_125000keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/1024-bit/sqef_sliced_1024bit_125000keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\1024-bit\\sqef_sliced_1024bit_125000keys_from_MAXIMUM_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "1BBECC93E222C1127B270E9F3433BFD2D64B90C6AC581BE0EDB44B9E49D6AB24",
+      "last_modified": "2025-08-06 17:47:42"
+    },
+    {
+      "filename": "sqef_sliced_16MB_1keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/16MB-blocks/sqef_sliced_16MB_1keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\16MB-blocks\\sqef_sliced_16MB_1keys_from_MAXIMUM_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "89B46A75D804EC1776BA87CDE3943DCDF0D856154354AF58F73BEC5B116C9369",
+      "last_modified": "2025-08-06 17:47:42"
+    },
+    {
+      "filename": "sqef_sliced_1KB_16384keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/1KB-blocks/sqef_sliced_1KB_16384keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\1KB-blocks\\sqef_sliced_1KB_16384keys_from_MAXIMUM_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "E00FE0FEA23260820B7AD0DEB24374486C3802D661E6F35DF2744102AE7508F5",
+      "last_modified": "2025-08-06 17:47:42"
+    },
+    {
+      "filename": "sqef_sliced_1MB_16keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/1MB-blocks/sqef_sliced_1MB_16keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\1MB-blocks\\sqef_sliced_1MB_16keys_from_MAXIMUM_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "FEDBA38AECFAAC6DF1E5EDEF1C5167EDDC73CC409128DBBA44DE2F0A4AD9904F",
+      "last_modified": "2025-08-06 17:47:42"
+    },
+    {
+      "filename": "sqef_sliced_2048bit_62500keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/2048-bit/sqef_sliced_2048bit_62500keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\2048-bit\\sqef_sliced_2048bit_62500keys_from_MAXIMUM_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "5BA0F10C73D5149708B00F6A043223C3168A043C1607F95E326CC4D3A664F7FF",
+      "last_modified": "2025-08-06 17:47:42"
+    },
+    {
+      "filename": "sqef_sliced_256bit_500000keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/256-bit/sqef_sliced_256bit_500000keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\256-bit\\sqef_sliced_256bit_500000keys_from_MAXIMUM_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "D0AE3542F04E894EAA800ABDEB55259AA84D7BE33D2BA43DC28DBDE91687C8B0",
+      "last_modified": "2025-08-06 17:47:41"
+    },
+    {
+      "filename": "sqef_sliced_256MB_1keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/256MB-blocks/sqef_sliced_256MB_1keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\256MB-blocks\\sqef_sliced_256MB_1keys_from_MAXIMUM_master.bin",
+      "size_bytes": 268435456,
+      "size_mb": 256.0,
+      "size_human": "256.00 MB",
+      "sha256": "B51197451AA0A06900B19633316063F3BA587043B52F1F10DE1143691E2D2745",
+      "last_modified": "2025-08-06 18:36:29"
+    },
+    {
+      "filename": "sqef_sliced_4096bit_31250keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/4096-bit/sqef_sliced_4096bit_31250keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\4096-bit\\sqef_sliced_4096bit_31250keys_from_MAXIMUM_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "63C368FB4B7DD4DC5109B51E5DFD12EF99C2CF1849C35545FCED25AEE34BF6A1",
+      "last_modified": "2025-08-06 17:47:42"
+    },
+    {
+      "filename": "sqef_sliced_4KB_4096keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/4KB-blocks/sqef_sliced_4KB_4096keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\4KB-blocks\\sqef_sliced_4KB_4096keys_from_MAXIMUM_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "14286F451064D5EB8835E6C219EF92BBC16451696C6F32D2A2271757EAC3BD65",
+      "last_modified": "2025-08-06 17:47:42"
+    },
+    {
+      "filename": "sqef_sliced_512bit_250000keys_from_MAXIMUM_master.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/512-bit/sqef_sliced_512bit_250000keys_from_MAXIMUM_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\512-bit\\sqef_sliced_512bit_250000keys_from_MAXIMUM_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "61184667C4645DE5E90CC7A47DA235CEE7EE0C84F33C473883D7865383E5B2FA",
+      "last_modified": "2025-08-06 17:47:42"
+    },
+    {
+      "filename": "sqef_master_512mb_MAXIMUM_for_slicing.bin",
+      "relative_path": "sample-outputs-MAXIMUM-32/512MB-master/sqef_master_512mb_MAXIMUM_for_slicing.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-MAXIMUM-32\\512MB-master\\sqef_master_512mb_MAXIMUM_for_slicing.bin",
+      "size_bytes": 536870912,
+      "size_mb": 512.0,
+      "size_human": "512.00 MB",
+      "sha256": "A2D3C7BDD630E4D181B51E77729896E50F1647FB0F3B32EDE69F04D662BA9111",
+      "last_modified": "2025-08-06 17:47:41"
+    },
+    {
+      "filename": "sqef_sliced_1024bit_125000keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/1024-bit/sqef_sliced_1024bit_125000keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\1024-bit\\sqef_sliced_1024bit_125000keys_from_STANDARD_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "F2A611CA47B25CA0CACD4152EED30BDD153A771AC9B05708E9BEB242155C0318",
+      "last_modified": "2025-08-06 16:10:06"
+    },
+    {
+      "filename": "sqef_sliced_16KB_1024keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/16MB-blocks/sqef_sliced_16KB_1024keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\16MB-blocks\\sqef_sliced_16KB_1024keys_from_STANDARD_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "9419E6E7607FF4103F94107EBB064AB43844464A450B81805C5F9FECF4321124",
+      "last_modified": "2025-08-06 16:10:06"
+    },
+    {
+      "filename": "sqef_sliced_1KB_16384keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/1KB-blocks/sqef_sliced_1KB_16384keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\1KB-blocks\\sqef_sliced_1KB_16384keys_from_STANDARD_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "49759321DA5F2BD652C1112EEA8DBF44406D596E2D9B2E47DDC29C0B7A548047",
+      "last_modified": "2025-08-06 16:10:06"
+    },
+    {
+      "filename": "sqef_sliced_1MB_16keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/1MB-blocks/sqef_sliced_1MB_16keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\1MB-blocks\\sqef_sliced_1MB_16keys_from_STANDARD_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "32E3B4D09DD5DA9D4E73BDFB3844F17AA687DB3329148EA98FD0D42BAA88E876",
+      "last_modified": "2025-08-06 16:10:06"
+    },
+    {
+      "filename": "sqef_sliced_2048bit_62500keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/2048-bit/sqef_sliced_2048bit_62500keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\2048-bit\\sqef_sliced_2048bit_62500keys_from_STANDARD_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "C90C89E7DE2D2255FBE7E1E1E25C0A5B0D9A9F78B3F9B338EAB3BE19C4D73741",
+      "last_modified": "2025-08-06 16:10:06"
+    },
+    {
+      "filename": "sqef_sliced_256bit_500000keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/256-bit/sqef_sliced_256bit_500000keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\256-bit\\sqef_sliced_256bit_500000keys_from_STANDARD_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "CF4D52897D8D4B642E522A1D539F241266E83E8B12D12B1923CD98D5FF72142C",
+      "last_modified": "2025-08-06 16:10:05"
+    },
+    {
+      "filename": "sqef_sliced_256MB_1keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/256MB-blocks/sqef_sliced_256MB_1keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\256MB-blocks\\sqef_sliced_256MB_1keys_from_STANDARD_master.bin",
+      "size_bytes": 268435456,
+      "size_mb": 256.0,
+      "size_human": "256.00 MB",
+      "sha256": "8CDF637864040B1AF1240154C760C0B257C0B4347E2AE1E35E364552372C8368",
+      "last_modified": "2025-08-06 16:14:35"
+    },
+    {
+      "filename": "sqef_sliced_4096bit_31250keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/4096-bit/sqef_sliced_4096bit_31250keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\4096-bit\\sqef_sliced_4096bit_31250keys_from_STANDARD_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "6A492C81974ECE75BAB2809E99028D88FCF3EE2BA09254B23383269B065B01B1",
+      "last_modified": "2025-08-06 16:10:06"
+    },
+    {
+      "filename": "sqef_sliced_4KB_4096keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/4KB-blocks/sqef_sliced_4KB_4096keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\4KB-blocks\\sqef_sliced_4KB_4096keys_from_STANDARD_master.bin",
+      "size_bytes": 16777216,
+      "size_mb": 16.0,
+      "size_human": "16.00 MB",
+      "sha256": "779804AA5C5909038096F59A3868CD3962937C385E4800564A3B8917081D9637",
+      "last_modified": "2025-08-06 16:10:06"
+    },
+    {
+      "filename": "sqef_sliced_512bit_250000keys_from_STANDARD_master.bin",
+      "relative_path": "sample-outputs-STANDARD-512/512-bit/sqef_sliced_512bit_250000keys_from_STANDARD_master.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\512-bit\\sqef_sliced_512bit_250000keys_from_STANDARD_master.bin",
+      "size_bytes": 16000000,
+      "size_mb": 15.259,
+      "size_human": "15.26 MB",
+      "sha256": "C4E3CF45CD3056EFEDB842DBFB639F4ADB4CE38BE3B0E4B75524AAA0DCD74C8C",
+      "last_modified": "2025-08-06 16:10:06"
+    },
+    {
+      "filename": "sqef_master_512mb_STANDARD_for_slicing.bin",
+      "relative_path": "sample-outputs-STANDARD-512/512MB-master/sqef_master_512mb_STANDARD_for_slicing.bin",
+      "full_path": "C:\\GitHub\\Luminareware-SQEF-NIST-Evaluation\\sample-outputs\\sample-outputs-STANDARD-512\\512MB-master\\sqef_master_512mb_STANDARD_for_slicing.bin",
+      "size_bytes": 536870912,
+      "size_mb": 512.0,
+      "size_human": "512.00 MB",
+      "sha256": "F428C8983F7E671BE9DBA03ECFFF1CDE3FE065410530C607F722F572EBF9CB90",
+      "last_modified": "2025-08-06 16:10:05"
+    }
+  ]
+}
