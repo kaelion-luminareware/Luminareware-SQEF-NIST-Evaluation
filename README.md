@@ -11,13 +11,11 @@ This repository contains comprehensive test results for Luminareware's SQEF cryp
 
 ## Key Results Summary
 
-* **NIST SP 800-22 Pass Rate**: 99.82% (1,689/1,692 tests)
-* **NIST SP 800-90B Pass Rate**: 100% (11/11 configurations)
-* **Entropy Range**: 7.965-7.994 bits/byte
+* **Min-Entropy: 7.96-7.99 bits/byte across all configurations (NIST SP 800-90B validated)
+* **NIST SP 800-22: All 33 configurations pass (6,204 tests, 98.40%-100% pass rates per configuration)*
+* **NIST SP 800-90B: 100% IID compliance (all 33 configurations)
 * **Technology**: Software-only implementation achieving hardware-grade randomness
-
-
-
+* 
 \## Repository Structure
 
 \- `/sp800-22-results/`: Complete NIST 800 SP 22 test outputs
