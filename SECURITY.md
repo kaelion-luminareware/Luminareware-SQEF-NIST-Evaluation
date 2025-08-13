@@ -71,5 +71,5 @@ We appreciate the cryptographic community's review and feedback. Contributors wh
 
 ---
 
-*Last Updated: [Current Date]*
+*Last Updated: 8/13/2025*
 *Version: 1.0*
