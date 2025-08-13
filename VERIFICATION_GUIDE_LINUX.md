@@ -58,7 +58,8 @@ Luminareware-SQEF-NIST-Evaluation/
 └── LICENSE.md
 └── MASTER_SUMMARY.json
 └── README.md
-└── VERIFICATION_GUIDE.md
+└── VERIFICATION_GUIDE_LINUS.md
+└── VERIFICATION_GUIDE_WINDOWS.md
 
 ```
 

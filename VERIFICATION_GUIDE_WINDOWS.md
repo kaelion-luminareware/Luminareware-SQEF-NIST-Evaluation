@@ -62,7 +62,8 @@ Luminareware-SQEF-NIST-Evaluation/
 └── LICENSE.md
 └── MASTER_SUMMARY.json
 └── README.md
-└── VERIFICATION_GUIDE.md
+└── VERIFICATION_GUIDE_LINUX.md
+└── VERIFICATION_GUIDE_WINDOWS.md
 ```
 
 ## Step 1: Quick Verification Using Summary Files

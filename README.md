@@ -4,19 +4,19 @@
 
 **Technology:** SQEF™ (Patent Pending, Trademark Filed)  
 **Developer:** Luminareware LLC  
-**Patent Status:** USPTO Applications 19/198,077 and 19/267,394 (Pending)  
+**Patent Status:** USPTO applications pending (19/198,077 and 19/267,394)  
 **Contact:** contact@luminareware.com
 
 ## Overview
 
-This repository contains comprehensive test results and validation data for Luminareware's SQEF (Simulated Quantum Entropy Fusion) cryptographic random number generation technology, submitted for NIST evaluation. SQEF achieves quantum-grade randomness through pure software implementation without requiring quantum hardware, specialized chips, or network connectivity.
+This repository contains comprehensive test results and validation data for Luminareware's SQEF (Simulated Quantum Entropy Fusion) cryptographic random number generation technology, submitted for NIST evaluation. SQEF achieves quantum-grade randomness through software implementation without requiring quantum hardware, specialized chips, or network connectivity.
 
 ## Key Performance Metrics
 
 * **Min-Entropy:** 7.96-7.99 bits/byte across all configurations (NIST SP 800-90B validated)
 * **NIST SP 800-22:** All 33 configurations pass (6,204 tests, 98.40%-100% pass rates per configuration)
 * **NIST SP 800-90B:** 100% IID compliance (all 33 configurations validated)
-* **Throughput:** 273 MB/s baseline, up to 9,943 keys/ms for 256-bit keys
+* **Throughput:** 273 MB/s baseline, up to 9,943+ keys/ms for 256-bit keys
 * **Security Levels:** Three validated levels (Standard 1:512, Enhanced 1:128, Maximum 1:32)
 * **Hardware Required:** None (pure software implementation)
 
@@ -41,11 +41,10 @@ All modes maintain >2^123 operation security margins against SHA3-256 attacks.
 |---|---|---|
 | `/sp800-22-results/` | Complete NIST SP 800-22 test outputs | All 33 configurations |
 | `/sp800-90b-results/` | NIST SP 800-90B entropy assessments | IID validation results |
-| `/documentation/` | Technical specifications & methodologies | Includes EXECUTIVE_SUMMARY |
+| `/documentation/` | Technical specifications & methodologies | Includes SQEF Executive Summary overview for NIST, etc. | Complete technical summary |
 | `/sample-outputs/` | Sample keys for verification | Binary samples for analysis |
 | `/verification-tools/` | Scripts to verify results | Python validation tools |
 | `MASTER_SUMMARY.json` | Consolidated test results | Machine-readable summary |
-| `EXECUTIVE_SUMMARY.md` | Executive overview for NIST/DARPA | Complete technical summary |
 
 ## Large Test Files (256MB & 512MB)
 
@@ -108,9 +107,9 @@ All test results can be independently verified using:
 
 ## Documentation
 
-- **Executive Summary:** See `EXECUTIVE_SUMMARY.md` for complete technical overview
-- **Test Methodology:** Detailed in `/documentation/test_methodology.md`
-- **Security Analysis:** Available in `/documentation/security_analysis.md`
+- **SQEF Executive Summary:** See `/documentation/SQEF Executive Summary.pdf` for complete technical overview
+- **SQEF Statistical Validation and NIST Compliance Report :** Detailed in `/documentation/SQEF Comprehenisve Testing.pdf`
+- **Comprehensive Random Number Generator Performance Comparison:** Available in `/documentation/SQEF Comprehensive Random Number Generator Performance Comparison.pdf`
 
 ## Citation
 
